@@ -1,0 +1,5 @@
+<root>
+    <item name='org.bukkit.inventory.meta.ItemMeta'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>

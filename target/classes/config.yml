@@ -1,0 +1,11 @@
+time: 180
+canceltime: 120
+minbal: 10000000
+minvote: 6
+rewardmoney: 0.1
+mysql:
+  host:
+  user:
+  pass:
+  port:
+  db:

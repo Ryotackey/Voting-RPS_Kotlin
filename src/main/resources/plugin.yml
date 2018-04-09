@@ -1,0 +1,11 @@
+name: VotingRPS_Kotlin
+version: ${project.version}
+main: red.man10.votingrps_kotlin.VotingRPS_Kotlin
+commands:
+  mv:
+    description: Command no setsumei
+    usage: /<command>
+    default: true
+permissions:
+  votingrps.op:
+    default: OP
